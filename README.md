@@ -1,4 +1,4 @@
-# powervs-mcp-server
+# IBM Power Virtual Server MCP (Model Context Protocol) Server
 This repository is an example MCP (Model Context Protocol) server for IBM Power Virtual Server.
 
 DISCLAIMER: This is a sample MCP Server for reference and is not officially supported by IBM. 
