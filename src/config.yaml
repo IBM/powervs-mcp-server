@@ -1,0 +1,4 @@
+account_id: ""
+api_key: "" # Power VS API key
+base_url: "https://dal.power-iaas.cloud.ibm.com"  # Replace with your actual base URL
+crn: ""
